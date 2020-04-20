@@ -1,4 +1,4 @@
-# Game
+# IzbjegniZadaće
 Korona virus hara planetom. Za sobom ostavlja propale ekonomije, gubitke radnih mjesta, tisuće zaraženih i zatvaranje mnogih ustanova.
 No, oni kojima to najteže pada jesu učenici GAM-a koji svakodnevno moraju rješavati tisuće i tisuće zadaća koje nemilosrdno lete na njih putem Microsoft Teamsa.
 Plačeš li i ti od muke kao naš glavni junak Šišmundo dok gledaš kako ti u inbox pristižu još zadaća, poruka i opomena zbog kašnjenja?
