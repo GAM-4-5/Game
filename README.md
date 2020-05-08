@@ -5,13 +5,6 @@ Kao i u stvarnosti tako i u igri, zadaće je teško uočiti zbog različitih pla
 Plačeš li i ti od muke kao naš glavni junak Šišmundo dok gledaš kako ti u inbox pristižu još zadaća, poruka i opomena zbog kašnjenja?
 Prestani cmizdriti i pomozi nam pobiti sve zadaće!
 
-NOVO: praktički cijeli kod
-
-U PLANU: 
-- dodavanje novih raznolikijih zadaći i različitih karaktera
-- dodavanje pjesme s lyriscom na temu on line nastave
-- poljepšavanje grafike, slika
-
 
 PEGI 3
 All rights reserved ©
